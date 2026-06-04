@@ -1,0 +1,1 @@
+Proyecto base para la Actividad 2. Debes crear un proyecto Expo y copiar estos archivos.
