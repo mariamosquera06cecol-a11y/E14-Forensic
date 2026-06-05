@@ -4,15 +4,7 @@
     "slug": "e14forensicengine",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
-    "splash": {
-      "resizeMode": "contain",
-      "backgroundColor": "#000000"
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
     "android": {
       "package": "com.sena.e14forensicengine"
     },
